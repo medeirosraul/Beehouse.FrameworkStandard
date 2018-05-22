@@ -1,0 +1,12 @@
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\bin\Debug\netstandard2.0\Beehouse.FrameworkStandard.deps.json
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\bin\Debug\netstandard2.0\Beehouse.FrameworkStandard.dll
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.csprojAssemblyReference.cache
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.csproj.CoreCompileInputs.cache
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.AssemblyInfoInputs.cache
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.AssemblyInfo.cs
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\bin\Debug\netstandard2.0\Beehouse.FrameworkStandard.pdb
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.dll
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.pdb
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\bin\Debug\netstandard2.0\Microsoft.Practices.Unity.dll
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\bin\Debug\netstandard2.0\Microsoft.Practices.Unity.xml
+C:\Users\raula\OneDrive\Beehouse Documents\Sources\Alma\Beehouse.FrameworkStandard\obj\Debug\netstandard2.0\Beehouse.FrameworkStandard.csproj.CopyComplete
