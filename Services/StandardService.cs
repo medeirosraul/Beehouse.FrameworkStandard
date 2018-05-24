@@ -69,7 +69,7 @@ namespace Beehouse.FrameworkStandard.Services
 
         public virtual async Task<TEntity> InsertAsync(TEntity e)
         {
-            Debug.WriteLine($">>>> Saving on StandardService<{nameof(TEntity)}>.InsertAsync");
+            Debug.WriteLine($">>>> Saving on StandardService<{e.GetType().FullName}>.InsertAsync");
             e.CreatedAt = DateTime.Now;
             e.UpdatedAt = DateTime.Now;
             e.Deleted = false;
@@ -116,7 +116,8 @@ namespace Beehouse.FrameworkStandard.Services
 
             // Attach
 
-            Entities.Update(entity);
+            Entities.Attach(entity);
+            Context.Entry(entity).State = EntityState.Modified;
 
             // Resolve Columns
             ChangeColumnsState(ref entity);
